@@ -1,0 +1,9 @@
+Package: com.swiftyper.dingtalkgpsfaker
+Name: DingTalkGPSFaker
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: 小锅
+Author: 小锅
+Section: Tweaks
